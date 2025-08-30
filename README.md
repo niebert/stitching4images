@@ -5,6 +5,7 @@ Please see the **[Demo page](http://josundin.github.io/magcut/)** and/or
 the **[Source code](https://github.com/josundin/magcut)**
 
 <h4>How to instructions</h4>
+http://josundin.github.io/magcut/index.html#instructions
 See [instructions](http://josundin.github.io/magcut/index.html#instructions)
 
 ## A web browser tool for Image Alignment and Stitching
